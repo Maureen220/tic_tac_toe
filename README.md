@@ -6,4 +6,4 @@
    `--'   `--' `---'       `--'   `--`--' `---'       `--'   `---'  `----'   
    ```
 -----
-### Recreating the classic game in CLI with Python
+### Recreating the classic game in terminal with Python
